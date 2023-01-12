@@ -1,2 +1,2 @@
-# software / Java
+# Software / Java
 Nesneye yönelik programlama öğrenirken yazdığım kodlar bu repoda
