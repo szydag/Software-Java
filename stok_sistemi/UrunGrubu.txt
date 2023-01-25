@@ -1,0 +1,5 @@
+1 Beverages Softdrinks,coffees,teas
+2 Condiments Sweetandsavorysauces,relishes,spreads,andseasonings
+3 Confections Desserts,candies,andsweetbreads
+4 DairyProducts Cheeses
+5 Grains/Cereals Breads,crackers,pasta,andcereal
